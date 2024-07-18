@@ -138,7 +138,7 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 # My Specs
 
 ```yaml
-apiVersion: v47
+apiVersion: v2077
 kind: Human
 metadata:
   name: Vladimir Mikhalev
