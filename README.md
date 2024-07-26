@@ -44,7 +44,11 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
-<a href="https://www.credly.com/earner/earned/badge/7d576a72-4a50-47bb-a85c-d21d4fb0a271" title="AWS Knowledge: Events and Workflows">
+<a href="https://www.credly.com/badges/3a4a5373-4af3-41e0-9b57-05eab6977629" title="Containers & Kubernetes Essentials">
+    <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Containers & Kubernetes Essentials">
+</a>
+
+<a href="https://www.credly.com/badges/7d576a72-4a50-47bb-a85c-d21d4fb0a271" title="AWS Knowledge: Events and Workflows">
     <img src="https://images.credly.com/size/680x680/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Events and Workflows">
 </a>
 
