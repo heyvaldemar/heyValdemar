@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/badges/9b51d15e-de2d-4477-b119-9743864a30f0" title="Docker Essentials: A Developer Introduction">
+    <img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Docker Essentials: A Developer Introduction">
+</a>
+
 <a href="https://www.credly.com/badges/3a4a5373-4af3-41e0-9b57-05eab6977629" title="Containers & Kubernetes Essentials">
     <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Containers & Kubernetes Essentials">
 </a>
