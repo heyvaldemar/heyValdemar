@@ -44,7 +44,11 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
-<a href="https://www.credly.com/badges/9b51d15e-de2d-4477-b119-9743864a30f0" title="Docker Essentials: A Developer Introduction">
+<a href="https://www.credly.com/badges/ff649c40-9d09-4ad4-9103-27978a326fcd" title="IBM Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="IBM Cloud Essentials">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/9b51d15e-de2d-4477-b119-9743864a30f0" title="Docker Essentials: A Developer Introduction">
     <img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Docker Essentials: A Developer Introduction">
 </a>
 
