@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/badges/76773c93-9d49-47cd-9d80-857949e7d301" title="Beyond the Basics: Istio and IBM Cloud Kubernetes Service">
+    <img src="https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Beyond the Basics: Istio and IBM Cloud Kubernetes Service">
+</a>
+
 <a href="https://www.credly.com/badges/ff649c40-9d09-4ad4-9103-27978a326fcd" title="IBM Cloud Essentials">
     <img src="https://images.credly.com/size/680x680/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="IBM Cloud Essentials">
 </a>
