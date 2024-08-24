@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/596e83f9-0566-416f-b185-c19e7bad8c75" title="Open Source Foundations">
+    <img src="https://images.credly.com/size/680x680/images/3f393dd4-e8e0-4fef-a424-c9f1d1f3ba97/Open_Source_Foundations.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Open Source Foundations">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/64d83302-7a8d-4006-9e1d-7b4263c3bfdc" title="Containers, K8s and Istio on IBM Cloud">
     <img src="https://images.credly.com/size/680x680/images/c848b101-661f-4f3a-bc8f-f9c977a55524/Containers-K8s-istio-IBM_cloud_v2.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Containers, K8s and Istio on IBM Cloud">
 </a>
