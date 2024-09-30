@@ -45,27 +45,27 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
 <a href="https://www.credly.com/earner/earned/badge/596e83f9-0566-416f-b185-c19e7bad8c75" title="Open Source Foundations">
-    <img src="https://images.credly.com/size/680x680/images/3f393dd4-e8e0-4fef-a424-c9f1d1f3ba97/Open_Source_Foundations.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Open Source Foundations">
+    <img src="https://images.credly.com/size/680x680/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Open Source Foundations">
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/64d83302-7a8d-4006-9e1d-7b4263c3bfdc" title="Containers, K8s and Istio on IBM Cloud">
-    <img src="https://images.credly.com/size/680x680/images/c848b101-661f-4f3a-bc8f-f9c977a55524/Containers-K8s-istio-IBM_cloud_v2.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Containers, K8s and Istio on IBM Cloud">
+    <img src="https://images.credly.com/size/680x680/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Containers, K8s and Istio on IBM Cloud">
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/8d8fe48f-2078-4418-9068-8104d1638d40" title="Getting started with Microservices with Istio and IBM Cloud Kubernetes Service">
-    <img src="https://images.credly.com/size/680x680/images/376369e8-1901-44fa-af45-ce4422818f0c/Itsio_and_IBM_Cloud_Container_Service.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Getting started with Microservices with Istio and IBM Cloud Kubernetes Service">
+    <img src="https://images.credly.com/size/680x680/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Getting started with Microservices with Istio and IBM Cloud Kubernetes Service">
 </a>
 
 <a href="https://www.credly.com/badges/76773c93-9d49-47cd-9d80-857949e7d301" title="Beyond the Basics: Istio and IBM Cloud Kubernetes Service">
-    <img src="https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Beyond the Basics: Istio and IBM Cloud Kubernetes Service">
+    <img src="https://images.credly.com/size/680x680/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Beyond the Basics: Istio and IBM Cloud Kubernetes Service">
 </a>
 
 <a href="https://www.credly.com/badges/ff649c40-9d09-4ad4-9103-27978a326fcd" title="IBM Cloud Essentials">
-    <img src="https://images.credly.com/size/680x680/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="IBM Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="IBM Cloud Essentials">
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/9b51d15e-de2d-4477-b119-9743864a30f0" title="Docker Essentials: A Developer Introduction">
-    <img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Docker Essentials: A Developer Introduction">
+    <img src="https://images.credly.com/size/680x680/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Docker Essentials: A Developer Introduction">
 </a>
 
 <a href="https://www.credly.com/badges/3a4a5373-4af3-41e0-9b57-05eab6977629" title="Containers & Kubernetes Essentials">
@@ -77,7 +77,7 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 </a>
 
 <a href="https://www.credly.com/badges/c3b4b3e0-1691-4ae3-8215-03d63d0b9a5c" title="Deep Learning Essentials">
-    <img src="https://images.credly.com/size/680x680/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning Essentials">
+    <img src="https://images.credly.com/size/680x680/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning Essentials">
 </a>
 
 <a href="https://www.credly.com/badges/73fbb725-0c90-405f-bf74-ff4c4bafd9da" title="GitHub Advanced Security">
@@ -153,7 +153,7 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 </a>
 
 <a href="https://www.credly.com/badges/3dd7feaa-a182-4ed3-beb8-a639b086f46e" title="Verified International Academic Qualifications">
-    <img src="https://images.credly.com/size/680x680/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Verified International Academic Qualifications">
+    <img src="https://images.credly.com/size/680x680/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Verified International Academic Qualifications">
 </a>
 
 - [Badge Verificaton](https://www.credly.com/users/heyvaldemar/badges)
