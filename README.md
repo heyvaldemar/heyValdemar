@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/bc9ad7a0-d6be-48c5-80eb-4b4be7329e16" title="Advanced Kubernetes Operators">
+    <img src="https://images.credly.com/size/680x680/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Advanced Kubernetes Operators">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/596e83f9-0566-416f-b185-c19e7bad8c75" title="Open Source Foundations">
     <img src="https://images.credly.com/size/680x680/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Open Source Foundations">
 </a>
