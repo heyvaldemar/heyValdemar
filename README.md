@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/2fd4688c-14db-4138-b6f8-ac7f5bb1f9ff" title="Machine Learning with Python - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Machine Learning with Python - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/6a4378f9-a5b9-4674-9b30-370253033edb" title="Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED">
     <img src="https://images.credly.com/size/680x680/images/4e0da755-65ac-4f9f-9502-24553709c284/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED">
 </a>
