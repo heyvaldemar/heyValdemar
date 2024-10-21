@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/7ede25ae-5f47-4b5b-8621-44a83e577527" title="Machine Learning with Python - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/c6c88c5f-79ea-4151-952d-b21c02b9a9fd/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Machine Learning with Python - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/2fd4688c-14db-4138-b6f8-ac7f5bb1f9ff" title="Machine Learning with Python - Level 1">
     <img src="https://images.credly.com/size/680x680/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Machine Learning with Python - Level 1">
 </a>
