@@ -176,28 +176,32 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
     <img src="https://images.credly.com/size/680x680/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Verified International Academic Qualifications">
 </a>
 
-<a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
-    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-6.jpg" width="150" alt="Microsoft Certified Systems Engineer: Security"/></a>
+<a href="https://www.credly.com/badges/3dd7feaa-a182-4ed3-beb8-a639b086f46e" title="Verified International Academic Qualifications">
+    <img src="https://images.credly.com/size/680x680/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Verified International Academic Qualifications" title="Verified International Academic Qualifications">
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
-    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-5.jpg" width="150" alt="Microsoft Certified Systems Engineer: Messaging"/></a>
+    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-6.jpg" width="150" alt="Microsoft Certified Systems Engineer: Security" title="Microsoft Certified Systems Engineer: Security"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
-    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-4.jpg" width="150" alt="Microsoft Certified Systems Administrator: Security"/></a>
+    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-5.jpg" width="150" alt="Microsoft Certified Systems Engineer: Messaging" title="Microsoft Certified Systems Engineer: Messaging"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
-    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-3.jpg" width="150" alt="Microsoft Certified Systems Administrator: Messaging"/></a>
+    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-4.jpg" width="150" alt="Microsoft Certified Systems Administrator: Security" title="Microsoft Certified Systems Administrator: Security"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
-    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-2.jpg" width="150" alt="Microsoft Certified Desktop Support Technician"/></a>
+    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-3.jpg" width="150" alt="Microsoft Certified Systems Administrator: Messaging" title="Microsoft Certified Systems Administrator: Messaging"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
-    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-1.jpg" width="150" alt="Microsoft Certified Professional"/></a>
+    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-2.jpg" width="150" alt="Microsoft Certified Desktop Support Technician" title="Microsoft Certified Desktop Support Technician"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/heyvaldemar/transcript/dz2jhnng889m21d">
+    <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-1.jpg" width="150" alt="Microsoft Certified Professional" title="Microsoft Certified Professional"/>
 </a>
 
 - [Badge Verificaton](https://www.credly.com/users/heyvaldemar/badges)
