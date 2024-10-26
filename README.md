@@ -200,7 +200,7 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
     <img src="https://www.heyvaldemar.com/images/pages/vladimir-mikhalev/vladimir-mikhalev-badge-1.jpg" width="150" alt="Microsoft Certified Professional" title="Microsoft Certified Professional"/>
 </a>
 
-- [Badge Verificaton](https://www.credly.com/users/heyvaldemar/badges)
+- [Badge Verificaton](https://www.credly.com/users/heyvaldemar)
 - [Full List of My Badges and Certificates](https://www.heyvaldemar.com/vladimir-mikhalev/)
 
 # Some of My Favorites Tools and Services
