@@ -231,10 +231,10 @@ spec:
       where: twitter.com/heyValdemar
   favorites:
     number: 7
-    animal: 🐼
-    emoji: 🤓
+    animal: 🐶
+    emoji: 😉
     food: 🍕
-    drink: 🍺
+    hobby: 🎮
 status:
   state: "Operational"
   mood: "Happy"
