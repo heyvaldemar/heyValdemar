@@ -214,28 +214,30 @@ apiVersion: v2077
 kind: Human
 metadata:
   name: Vladimir Mikhalev
+  labels:
+    profession: DevOps
+    expertise: Containers
 spec:
   purpose: Help others learn container DevOps
   sponsorship: patreon.com/heyvaldemar
   locations:
-    - 
-      type: YouTube
+    - type: YouTube
       where: youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ
-    - 
-      type: Homepage
+    - type: Homepage
       where: heyvaldemar.com
-    - 
-      type: Discord Server
+    - type: Discord Server
       where: discord.gg/AJQGCCBcqf
-    -
-      type: Twitter
+    - type: Twitter
       where: twitter.com/heyValdemar
   favorites:
     number: 7
-    animal: 🐶
-    emoji: 😉
+    animal: 🐼
+    emoji: 🤓
     food: 🍕
-    drink: 🍹
+    drink: 🍺
+status:
+  state: "Operational"
+  mood: "Happy"
 ```
 
 # My Recommendations
