@@ -44,6 +44,10 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/8f03fcab-b8fb-4273-8765-d9e364c2acb4" title="Intermediate Kubernetes Operators">
+    <img src="https://images.credly.com/size/680x680/images/49173e9c-a2ac-4c0f-aae9-e36fd1994413/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Intermediate Kubernetes Operators">
+</a>
+
 <a href="https://www.credly.com/badges/2678b4c0-7883-45b9-94ea-963cddb27fdf" title="Deep Learning using TensorFlow">
     <img src="https://images.credly.com/size/680x680/images/ba85e07d-8263-4f30-b39b-d79883ee558c/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning using TensorFlow">
 </a>
