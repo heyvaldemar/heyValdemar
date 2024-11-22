@@ -272,9 +272,13 @@ status:
 🐦 Follow me on [Twitter](https://twitter.com/heyValdemar)\
 🎨 Follow me on [Instagram](https://www.instagram.com/heyvaldemar/)\
 🐘 Follow me on [Mastodon](https://mastodon.social/@heyvaldemar)\
+🧵 Follow me on [Threads](https://www.threads.net/@heyvaldemar)\
 🎸 Follow me on [Facebook](https://www.facebook.com/heyValdemarFB/)\
+🧊 Follow me on [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
 🎥 Follow me on [TikTok](https://www.tiktok.com/@heyvaldemar)\
 💻 Follow me on [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
+📣 Follow me on [daily.dev](https://app.daily.dev/squads/devopscompass)\
+🧩 Follow me on [LeetCode](https://leetcode.com/u/heyValdemar/)\
 🐈 Follow me on [GitHub](https://github.com/heyvaldemar)
 
 # Communication
