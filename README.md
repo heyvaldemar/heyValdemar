@@ -279,7 +279,7 @@ status:
 # Follow Me
 
 🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
-🐦 Follow me on [Twitter](https://twitter.com/heyValdemar)\
+🐦 Follow me on [X / Twitter](https://twitter.com/heyValdemar)\
 🎨 Follow me on [Instagram](https://www.instagram.com/heyvaldemar/)\
 🐘 Follow me on [Mastodon](https://mastodon.social/@heyvaldemar)\
 🧵 Follow me on [Threads](https://www.threads.net/@heyvaldemar)\
