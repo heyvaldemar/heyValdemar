@@ -54,12 +54,16 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
-<a href="https://www.credly.com/earner/earned/badge/2c6af80c-b36c-43b0-b675-b323565bd984" title="Spark - Level 1">
-    <img src="https://images.credly.com/size/680x680/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Spark - Level 1">
+<a href="https://www.credly.com/earner/earned/badge/bcb21d0d-8492-4de7-bbdd-73b9d8f9daca" title="Liberty Developer Essentials">
+    <img src="https://images.credly.com/size/680x680/images/a3d67ea4-2423-485f-abf0-8f08b194a3c3/IBM_20Liberty_20Developer_20Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Liberty Developer Essentials">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/942206db-fec9-4b8d-b488-f335a3e4063e" title="Spark - Level 1">
-    <img src="https://images.credly.com/size/680x680/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Spark - Level 1">
+<a href="https://www.credly.com/earner/earned/badge/2c6af80c-b36c-43b0-b675-b323565bd984" title="Deep Learning">
+    <img src="https://images.credly.com/size/680x680/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/942206db-fec9-4b8d-b488-f335a3e4063e" title="Accelerated Deep Learning with GPU">
+    <img src="https://images.credly.com/size/680x680/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Accelerated Deep Learning with GPU">
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/cc9fa73c-f51d-42ed-a7db-86d5cbe2a570" title="Spark - Level 1">
