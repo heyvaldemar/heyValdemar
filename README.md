@@ -54,6 +54,10 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/e82d4004-498c-439f-8ad2-6d0428129108" title="Quantum-Safe Encryption Essentials">
+    <img src="https://images.credly.com/size/680x680/images/678bcf1d-7baf-4322-9301-3f88d71ef113/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Quantum-Safe Encryption Essentials">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/bcb21d0d-8492-4de7-bbdd-73b9d8f9daca" title="Liberty Developer Essentials">
     <img src="https://images.credly.com/size/680x680/images/a3d67ea4-2423-485f-abf0-8f08b194a3c3/IBM_20Liberty_20Developer_20Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Liberty Developer Essentials">
 </a>
