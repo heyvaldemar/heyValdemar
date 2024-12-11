@@ -54,6 +54,10 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/8f0f973c-dd5d-4ec3-a403-f5697f5da68b" title="Data Science for Business - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science for Business - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/e82d4004-498c-439f-8ad2-6d0428129108" title="Quantum-Safe Encryption Essentials">
     <img src="https://images.credly.com/size/680x680/images/678bcf1d-7baf-4322-9301-3f88d71ef113/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Quantum-Safe Encryption Essentials">
 </a>
