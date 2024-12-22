@@ -54,6 +54,10 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/5dbf0443-084f-44ef-9df3-b155d32ed175" title="Data Science Foundations - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Foundations - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/8f0f973c-dd5d-4ec3-a403-f5697f5da68b" title="Data Science for Business - Level 1">
     <img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science for Business - Level 1">
 </a>
