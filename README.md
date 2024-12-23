@@ -54,6 +54,14 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/50ea3dcd-1b15-4120-9666-c6e318ff9e9e" title="Data Science Foundations - Level 2 (V2)">
+    <img src="https://images.credly.com/size/680x680/images/2fde0bfe-ca31-4e31-860b-a109eeb86c05/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Foundations - Level 2 (V2)">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/8eb53a12-0364-4897-9c1a-92d3c5e878a9" title="Data Science Tools">
+    <img src="https://images.credly.com/size/680x680/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Tools">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/00876796-acb8-4e85-92ce-cf8ab2ba9f99" title="Data Science Methodologies">
     <img src="https://images.credly.com/size/680x680/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Methodologies">
 </a>
