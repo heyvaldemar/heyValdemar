@@ -15,10 +15,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Let’s do this together!
 
-🌐 Check out my [website](https://www.heyvaldemar.com/) with extremely detailed IT guides\
-💬 Join my DevOps community on [Discord](https://discord.gg/AJQGCCBcqf)
-
-# Recognized by Docker CEO
+## Recognized by Docker CEO
 
 At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linkedin.com/in/scottcjohnston/), acknowledged my exceptional leadership and contributions.
 
@@ -30,31 +27,79 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
   </a>
 </p>
 
-# My 2D Portfolio
+## My Featured Contributions on Docker.com
+
+Explore some of my key contributions to Docker's knowledge base and resources:
+
+🐳 [How to Dockerize a React App: A Step-by-Step Guide for Developers](https://www.docker.com/blog/how-to-dockerize-react-app/) – A clear, hands-on walkthrough that simplifies containerizing React applications, creating consistent environments, streamlining deployments, and elevating front-end workflows.
+
+🐳 [Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/) – An insightful exploration of how Testcontainers Cloud enhances container-based testing while addressing the complexities of Docker-in-Docker, delivering a more secure and efficient alternative.
+
+🐳 [Dockerize WordPress: Simplify Your Site’s Setup and Deployment](https://www.docker.com/blog/how-to-dockerize-wordpress/) – A comprehensive guide to streamlining WordPress environments using Docker and Traefik, ensuring secure, scalable, and efficient site deployments.
+
+🐳 [8 Top Docker Tips & Tricks](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/) – Practical insights and advanced techniques designed to elevate your Docker expertise and productivity.
+
+🐳 [How Ataccama Accelerated Its AI Journey with Docker](https://www.docker.com/resources/ataccama/) – A behind-the-scenes perspective on how Docker fueled Ataccama’s AI initiatives, boosting developer satisfaction and driving rapid innovation.
+
+🐳 [How a Beauty Giant Achieved 25% Cost Savings with Container-First Development](https://www.docker.com/resources/beauty-giant/) – A revealing case study on how a major beauty brand leveraged Docker to optimize workflows, significantly cut costs, and improve operational efficiency.
+
+## My 2D Portfolio
 
 🕹️ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
 
-# My Courses
+## My Courses
 
 🎓 Dive into my [comprehensive IT courses](https://www.heyvaldemar.com/courses/) designed for enthusiasts and professionals alike. Whether you're looking to master Docker, conquer Kubernetes, or advance your DevOps skills, my courses provide a structured pathway to enhancing your technical prowess.
 
 🔑 [Each course](https://www.udemy.com/user/heyvaldemar/) is built from the ground up with real-world scenarios in mind, ensuring that you gain practical knowledge and hands-on experience. From beginners to seasoned professionals, there's something here for everyone to elevate their IT skills.
 
-# My Services
+## My Services
 
 💼 Take a look at my [service catalog](https://www.heyvaldemar.com/services/) and find out how we can make your technological life better. Whether it's increasing the efficiency of your IT infrastructure, advancing your career, or expanding your technological horizons — I'm here to help you achieve your goals. From DevOps transformations to building gaming computers — let's make your technology unparalleled!
 
-# Patreon Exclusives
+## Patreon Exclusives
 
-Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
+🏆 Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
 
-# My Recommendations
+## My Recommendations
 
-📕 Check out my collection of [essential DevOps books](https://kit.co/heyValdemar/essential-devops-books)\
-🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyValdemar/my-studio-streaming-and-recording-kit)\
-📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
+📕 Check out my collection of [essential DevOps books](https://kit.co/heyvaldemar/essential-devops-books)\
+🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyvaldemar/my-studio-streaming-and-recording-kit)\
+📡 Check out my [streaming starter kit](https://kit.co/heyvaldemar/streaming-starter-kit)
 
-# My Digital Badges
+## Follow Me
+
+🎬 [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
+🐦 [X / Twitter](https://twitter.com/heyvaldemar)\
+🎨 [Instagram](https://www.instagram.com/heyvaldemar/)\
+🐘 [Mastodon](https://mastodon.social/@heyvaldemar)\
+🧵 [Threads](https://www.threads.net/@heyvaldemar)\
+🎸 [Facebook](https://www.facebook.com/heyvaldemarFB/)\
+🧊 [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
+🎥 [TikTok](https://www.tiktok.com/@heyvaldemar)\
+💻 [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
+📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)\
+🧩 [LeetCode](https://leetcode.com/u/heyvaldemar/)\
+🐈 [GitHub](https://github.com/heyvaldemar)
+
+## Community of IT Experts
+
+👾 [Discord](https://discord.gg/AJQGCCBcqf)
+
+## Refill My Coffee Supplies
+
+💖 [PayPal](https://www.paypal.com/paypalme/heyvaldemarCOM)\
+🏆 [Patreon](https://www.patreon.com/heyvaldemar)\
+💎 [GitHub](https://github.com/sponsors/heyvaldemar)\
+🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyvaldemar)\
+🍪 [Ko-fi](https://ko-fi.com/heyvaldemar)
+
+🌟 **Bitcoin (BTC):** bc1q2fq0k2lvdythdrj4ep20metjwnjuf7wccpckxc\
+🔹 **Ethereum (ETH):** 0x76C936F9366Fad39769CA5285b0Af1d975adacB8\
+🪙 **Binance Coin (BNB):** bnb1xnn6gg63lr2dgufngfr0lkq39kz8qltjt2v2g6\
+💠 **Litecoin (LTC):** LMGrhx8Jsx73h1pWY9FE8GB46nBytjvz8g
+
+## My Digital Badges
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
@@ -273,75 +318,15 @@ Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the wo
 - [Badge Verificaton](https://www.credly.com/users/heyvaldemar)
 - [Full List of My Badges and Certificates](https://www.heyvaldemar.com/vladimir-mikhalev/)
 
-# Some of My Favorites Tools and Services
+## My Achievements and Trophies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,go,nodejs,aws,azure,gcp,netlify,docker,kubernetes,openshift,openstack,dynamodb,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,jenkins,maven,nginx,prisma,figma,html,css,wordpress,gatsby,ps,pr,ae,unity,unreal,androidstudio,vim,neovim,atom,vscode)](https://github.com/heyValdemar)
+<a href="https://www.exophase.com/user/heyvaldemar/" target="_blank"><img src="https://card.exophase.com/2/0/269530.png?1723828767"></a>
 
-# My Specs
+## My GitHub Stats
 
-```yaml
-apiVersion: v2077
-kind: Human
-metadata:
-  name: Vladimir Mikhalev
-  labels:
-    profession: DevOps
-    expertise: Containers
-spec:
-  purpose: Help others learn container DevOps
-  sponsorship: patreon.com/heyvaldemar
-  locations:
-    - type: YouTube
-      where: youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ
-    - type: Homepage
-      where: heyvaldemar.com
-    - type: Discord Server
-      where: discord.gg/AJQGCCBcqf
-    - type: Twitter
-      where: twitter.com/heyValdemar
-  favorites:
-    number: 7
-    animal: 🐶
-    emoji: 😉
-    food: 🍕
-    hobby: 🎮
-status:
-  state: "Operational"
-  mood: "Happy"
-```
-
-# Follow Me
-
-🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
-🐦 Follow me on [X / Twitter](https://twitter.com/heyValdemar)\
-🎨 Follow me on [Instagram](https://www.instagram.com/heyvaldemar/)\
-🐘 Follow me on [Mastodon](https://mastodon.social/@heyvaldemar)\
-🧵 Follow me on [Threads](https://www.threads.net/@heyvaldemar)\
-🎸 Follow me on [Facebook](https://www.facebook.com/heyValdemarFB/)\
-🧊 Follow me on [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
-🎥 Follow me on [TikTok](https://www.tiktok.com/@heyvaldemar)\
-💻 Follow me on [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
-📣 Follow me on [daily.dev](https://app.daily.dev/squads/devopscompass)\
-🧩 Follow me on [LeetCode](https://leetcode.com/u/heyValdemar/)\
-🐈 Follow me on [GitHub](https://github.com/heyvaldemar)
-
-# Communication
-
-👾 Chat with IT pros on [Discord](https://discord.gg/AJQGCCBcqf)\
-📧 Reach me at ask@sre.gg
-
-# Give Thanks
-
-💎 Support on [GitHub](https://github.com/sponsors/heyValdemar)\
-🏆 Support on [Patreon](https://www.patreon.com/heyValdemar)\
-🥤 Support on [BuyMeaCoffee](https://www.buymeacoffee.com/heyValdemar)\
-🍪 Support on [Ko-fi](https://ko-fi.com/heyValdemar)\
-💖 Support on [PayPal](https://www.paypal.com/paypalme/heyValdemarCOM)
-
-# My GitHub Stats
+<div align="center">
 
 ### GitHub Streak
-<div align="center">
 
 [![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=heyValdemar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/heyvaldemar)
 
