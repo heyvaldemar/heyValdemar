@@ -46,7 +46,7 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 # Patreon Exclusives
 
-Join my [Patreon](https://www.patreon.com/heyvaldemar){:target="_blank"} and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
+Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
 
 # My Recommendations
 
