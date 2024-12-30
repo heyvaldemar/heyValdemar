@@ -306,12 +306,6 @@ status:
   mood: "Happy"
 ```
 
-# My Recommendations
-
-📕 Check out my collection of [essential DevOps books](https://kit.co/heyValdemar/essential-devops-books)\
-🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyValdemar/my-studio-streaming-and-recording-kit)\
-📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
-
 # Follow Me
 
 🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
