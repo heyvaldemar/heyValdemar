@@ -103,6 +103,10 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/4050cb20-d9dd-47e4-979c-9060d7722db6" title="Data Visualization Using Python">
+    <img src="https://images.credly.com/size/680x680/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Visualization Using Python">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/f943c980-01a7-4587-9b13-7c3bb35f0887" title="Data Analysis Using Python">
     <img src="https://images.credly.com/size/680x680/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Analysis Using Python">
 </a>
