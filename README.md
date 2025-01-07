@@ -326,16 +326,6 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://www.exophase.com/user/heyvaldemar/" target="_blank"><img src="https://card.exophase.com/2/0/269530.png?1723828767"></a>
 
-## My GitHub Stats
-
-<div align="center">
-
-### GitHub Streak
-
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=heyValdemar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/heyvaldemar)
-
-</div>
-
 <div align="center">
 
 ### Show some 💜 by starring some of the [repositories](https://github.com/heyValdemar?tab=repositories)!
