@@ -103,6 +103,10 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/eb9fb70e-28e6-4493-8631-abc94de21a09" title="Build Your Own Chatbot - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/745b7433-8c95-4978-87ed-a5b280fcb1aa/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Build Your Own Chatbot - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/4050cb20-d9dd-47e4-979c-9060d7722db6" title="Data Visualization Using Python">
     <img src="https://images.credly.com/size/680x680/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Visualization Using Python">
 </a>
