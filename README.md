@@ -105,6 +105,10 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/142fed24-86d7-4c00-93f1-d52e2eff569c" title="Big Data Foundations - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Big Data Foundations - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/f8427d0f-12ee-47df-a710-50e3cc235f39" title="Principles of Reactive Architecture">
     <img src="https://images.credly.com/size/680x680/images/a9be4a4d-dd5d-4131-9e6c-7145d85e3ee9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Principles of Reactive Architecture">
 </a>
