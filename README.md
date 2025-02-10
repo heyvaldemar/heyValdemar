@@ -107,6 +107,14 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/a0d433d1-c29e-4f61-a946-991a6b9f533e" title="Big Data Foundations - Level 2">
+    <img src="https://images.credly.com/size/680x680/images/42b84acb-e8f0-428e-ba2c-d5e13095f511/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Big Data Foundations - Level 2">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/0077f8d4-7729-4556-ae72-c8a8b363f286" title="Hadoop Foundations - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Hadoop Foundations - Level 1">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/142fed24-86d7-4c00-93f1-d52e2eff569c" title="Big Data Foundations - Level 1">
     <img src="https://images.credly.com/size/680x680/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Big Data Foundations - Level 1">
 </a>
