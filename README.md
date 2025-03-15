@@ -5,7 +5,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Mikhalev&cb-cards.q_operator=AND), **Snyk Ambassador**, [Cypress Ambassador](https://www.cypress.io/ambassadors), and [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/).
+I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Mikhalev&cb-cards.q_operator=AND), [Snyk Ambassador](https://snyk.io/snyk-ambassadors/directory/), [Cypress Ambassador](https://www.cypress.io/ambassadors), and [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/).
 
 💾 I’ve been in the IT game for over 20 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/heyvaldemar/), [Thales](https://www.linkedin.com/in/heyvaldemar/), and [Amazon](https://www.linkedin.com/in/heyvaldemar/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
 
