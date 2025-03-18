@@ -107,6 +107,10 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/04a7643f-60f8-4f09-9b23-c9bef835ce77" title="Python for Data Science">
+    <img src="https://images.credly.com/size/680x680/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Python for Data Science">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/a0d433d1-c29e-4f61-a946-991a6b9f533e" title="Big Data Foundations - Level 2">
     <img src="https://images.credly.com/size/680x680/images/42b84acb-e8f0-428e-ba2c-d5e13095f511/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Big Data Foundations - Level 2">
 </a>
