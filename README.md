@@ -107,6 +107,10 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/e007e6d6-58ef-431f-9218-36d880b5c2d4" title="HashiCorp Ambassador 2025">
+    <img src="https://images.credly.com/size/680x680/images/1be1a923-f5bb-4001-94bf-468015bf1320/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="HashiCorp Ambassador 2025">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/04a7643f-60f8-4f09-9b23-c9bef835ce77" title="Python for Data Science">
     <img src="https://images.credly.com/size/680x680/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Python for Data Science">
 </a>
