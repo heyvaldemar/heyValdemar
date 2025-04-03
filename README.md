@@ -33,6 +33,8 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 Explore some of my key contributions to Docker's knowledge base and resources:
 
+🐳 [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/) – A practical guide to combining Docker and VS Code for faster development, consistent environments, seamless debugging, and streamlined CI/CD workflows.
+
 🐳 [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/) – A comprehensive, hands-on tutorial demonstrating how to combine Docker’s containerization strengths with Jenkins’ automation capabilities. Learn best practices for faster builds, consistent testing, and streamlined deployments that supercharge your DevOps workflows.
 
 🐳 [How to Dockerize a React App: A Step-by-Step Guide for Developers](https://www.docker.com/blog/how-to-dockerize-react-app/) – A clear, hands-on walkthrough that simplifies containerizing React applications, creating consistent environments, streamlining deployments, and elevating front-end workflows.
