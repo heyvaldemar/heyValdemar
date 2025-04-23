@@ -81,7 +81,7 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 🐘 [Mastodon](https://mastodon.social/@heyvaldemar)\
 🧵 [Threads](https://www.threads.net/@heyvaldemar)\
 🎸 [Facebook](https://www.facebook.com/heyvaldemarFB/)\
-🧊 [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
+🧊 [Bluesky](https://bsky.app/profile/heyvaldemar.com)\
 🎥 [TikTok](https://www.tiktok.com/@heyvaldemar)\
 💻 [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
 📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)\
