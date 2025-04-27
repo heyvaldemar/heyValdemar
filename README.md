@@ -15,8 +15,6 @@ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/commun
 
 🐳 As a [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/), I’m stoked to share my knowledge, experiences, and a good dose of passion for the tech. My aim is to encourage learning, innovation, and growth, and to inspire the next generation of IT whizz-kids to push Docker and container tech to its limits.
 
-Let’s do this together!
-
 ## Recognized by Docker CEO
 
 At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linkedin.com/in/scottcjohnston/), acknowledged my exceptional leadership and contributions.
@@ -48,6 +46,14 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 🐳 [How Ataccama Accelerated Its AI Journey with Docker](https://www.docker.com/resources/ataccama/) – A behind-the-scenes perspective on how Docker fueled Ataccama’s AI initiatives, boosting developer satisfaction and driving rapid innovation.
 
 🐳 [How a Beauty Giant Achieved 25% Cost Savings with Container-First Development](https://www.docker.com/resources/beauty-giant/) – A revealing case study on how a major beauty brand leveraged Docker to optimize workflows, significantly cut costs, and improve operational efficiency.
+
+## My Featured Contributions on the Official Cypress Blog
+
+Explore some of my key contributions to Cypress’s knowledge base and resources:
+
+🧪 [Cypress Test Replay in 2025: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485) – Discover how Cypress Test Replay turns every CI run into an interactive debugging session with DOM snapshots, network logs, and console output—perfect for tackling complex modern UIs.
+
+🧪 [Docker + Cypress in 2025: How I’ve Perfected My E2E Testing Setup](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j) – A deep dive into optimizing Cypress testing within Docker containers, ensuring stability, parallelization, and security for modern CI/CD pipelines.
 
 ## My 2D Portfolio
 
