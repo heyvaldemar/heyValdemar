@@ -115,91 +115,95 @@ Explore some of my key contributions to Cypress’s knowledge base and resources
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
-<a href="https://www.credly.com/earner/earned/badge/e007e6d6-58ef-431f-9218-36d880b5c2d4" title="HashiCorp Ambassador 2025">
+<a href="https://www.credly.com/badges/0fe5934b-7438-4143-856e-669a3463c3d6/" title="Simplifying Data Pipelines with Apache Kafka">
+    <img src="https://images.credly.com/size/680x680/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Simplifying Data Pipelines with Apache Kafka">
+</a>
+
+<a href="https://www.credly.com/badges/e007e6d6-58ef-431f-9218-36d880b5c2d4" title="HashiCorp Ambassador 2025">
     <img src="https://images.credly.com/size/680x680/images/1be1a923-f5bb-4001-94bf-468015bf1320/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="HashiCorp Ambassador 2025">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/04a7643f-60f8-4f09-9b23-c9bef835ce77" title="Python for Data Science">
+<a href="https://www.credly.com/badges/04a7643f-60f8-4f09-9b23-c9bef835ce77" title="Python for Data Science">
     <img src="https://images.credly.com/size/680x680/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Python for Data Science">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/a0d433d1-c29e-4f61-a946-991a6b9f533e" title="Big Data Foundations - Level 2">
+<a href="https://www.credly.com/badges/a0d433d1-c29e-4f61-a946-991a6b9f533e" title="Big Data Foundations - Level 2">
     <img src="https://images.credly.com/size/680x680/images/42b84acb-e8f0-428e-ba2c-d5e13095f511/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Big Data Foundations - Level 2">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/0077f8d4-7729-4556-ae72-c8a8b363f286" title="Hadoop Foundations - Level 1">
+<a href="https://www.credly.com/badges/0077f8d4-7729-4556-ae72-c8a8b363f286" title="Hadoop Foundations - Level 1">
     <img src="https://images.credly.com/size/680x680/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Hadoop Foundations - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/142fed24-86d7-4c00-93f1-d52e2eff569c" title="Big Data Foundations - Level 1">
+<a href="https://www.credly.com/badges/142fed24-86d7-4c00-93f1-d52e2eff569c" title="Big Data Foundations - Level 1">
     <img src="https://images.credly.com/size/680x680/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Big Data Foundations - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/f8427d0f-12ee-47df-a710-50e3cc235f39" title="Principles of Reactive Architecture">
+<a href="https://www.credly.com/badges/f8427d0f-12ee-47df-a710-50e3cc235f39" title="Principles of Reactive Architecture">
     <img src="https://images.credly.com/size/680x680/images/a9be4a4d-dd5d-4131-9e6c-7145d85e3ee9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Principles of Reactive Architecture">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/d836e883-950a-46c9-8c92-8b4e90000ae3" title="Building Scalable Systems">
+<a href="https://www.credly.com/badges/d836e883-950a-46c9-8c92-8b4e90000ae3" title="Building Scalable Systems">
     <img src="https://images.credly.com/size/680x680/images/0d7f102d-038a-4321-b2e1-21dc82b83b73/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Building Scalable Systems">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/eb9fb70e-28e6-4493-8631-abc94de21a09" title="Build Your Own Chatbot - Level 1">
+<a href="https://www.credly.com/badges/eb9fb70e-28e6-4493-8631-abc94de21a09" title="Build Your Own Chatbot - Level 1">
     <img src="https://images.credly.com/size/680x680/images/745b7433-8c95-4978-87ed-a5b280fcb1aa/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Build Your Own Chatbot - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/4050cb20-d9dd-47e4-979c-9060d7722db6" title="Data Visualization Using Python">
+<a href="https://www.credly.com/badges/4050cb20-d9dd-47e4-979c-9060d7722db6" title="Data Visualization Using Python">
     <img src="https://images.credly.com/size/680x680/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Visualization Using Python">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/f943c980-01a7-4587-9b13-7c3bb35f0887" title="Data Analysis Using Python">
+<a href="https://www.credly.com/badges/f943c980-01a7-4587-9b13-7c3bb35f0887" title="Data Analysis Using Python">
     <img src="https://images.credly.com/size/680x680/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Analysis Using Python">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/d40cade4-9ba7-46ce-b015-5b18fd273f27" title="Data Science for Business - Level 2">
+<a href="https://www.credly.com/badges/d40cade4-9ba7-46ce-b015-5b18fd273f27" title="Data Science for Business - Level 2">
     <img src="https://images.credly.com/size/680x680/images/4256595e-d92e-47de-84f6-42cfb0be191e/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science for Business - Level 2">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/50ea3dcd-1b15-4120-9666-c6e318ff9e9e" title="Data Science Foundations - Level 2 (V2)">
+<a href="https://www.credly.com/badges/50ea3dcd-1b15-4120-9666-c6e318ff9e9e" title="Data Science Foundations - Level 2 (V2)">
     <img src="https://images.credly.com/size/680x680/images/2fde0bfe-ca31-4e31-860b-a109eeb86c05/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Foundations - Level 2 (V2)">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/8eb53a12-0364-4897-9c1a-92d3c5e878a9" title="Data Science Tools">
+<a href="https://www.credly.com/badges/8eb53a12-0364-4897-9c1a-92d3c5e878a9" title="Data Science Tools">
     <img src="https://images.credly.com/size/680x680/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Tools">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/00876796-acb8-4e85-92ce-cf8ab2ba9f99" title="Data Science Methodologies">
+<a href="https://www.credly.com/badges/00876796-acb8-4e85-92ce-cf8ab2ba9f99" title="Data Science Methodologies">
     <img src="https://images.credly.com/size/680x680/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Methodologies">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/5dbf0443-084f-44ef-9df3-b155d32ed175" title="Data Science Foundations - Level 1">
+<a href="https://www.credly.com/badges/5dbf0443-084f-44ef-9df3-b155d32ed175" title="Data Science Foundations - Level 1">
     <img src="https://images.credly.com/size/680x680/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science Foundations - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/8f0f973c-dd5d-4ec3-a403-f5697f5da68b" title="Data Science for Business - Level 1">
+<a href="https://www.credly.com/badges/8f0f973c-dd5d-4ec3-a403-f5697f5da68b" title="Data Science for Business - Level 1">
     <img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science for Business - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/e82d4004-498c-439f-8ad2-6d0428129108" title="Quantum-Safe Encryption Essentials">
+<a href="https://www.credly.com/badges/e82d4004-498c-439f-8ad2-6d0428129108" title="Quantum-Safe Encryption Essentials">
     <img src="https://images.credly.com/size/680x680/images/678bcf1d-7baf-4322-9301-3f88d71ef113/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Quantum-Safe Encryption Essentials">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/bcb21d0d-8492-4de7-bbdd-73b9d8f9daca" title="Liberty Developer Essentials">
+<a href="https://www.credly.com/badges/bcb21d0d-8492-4de7-bbdd-73b9d8f9daca" title="Liberty Developer Essentials">
     <img src="https://images.credly.com/size/680x680/images/a3d67ea4-2423-485f-abf0-8f08b194a3c3/IBM_20Liberty_20Developer_20Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Liberty Developer Essentials">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/2c6af80c-b36c-43b0-b675-b323565bd984" title="Deep Learning">
+<a href="https://www.credly.com/badges/2c6af80c-b36c-43b0-b675-b323565bd984" title="Deep Learning">
     <img src="https://images.credly.com/size/680x680/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/942206db-fec9-4b8d-b488-f335a3e4063e" title="Accelerated Deep Learning with GPU">
+<a href="https://www.credly.com/badges/942206db-fec9-4b8d-b488-f335a3e4063e" title="Accelerated Deep Learning with GPU">
     <img src="https://images.credly.com/size/680x680/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Accelerated Deep Learning with GPU">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/cc9fa73c-f51d-42ed-a7db-86d5cbe2a570" title="Spark - Level 1">
+<a href="https://www.credly.com/badges/cc9fa73c-f51d-42ed-a7db-86d5cbe2a570" title="Spark - Level 1">
     <img src="https://images.credly.com/size/680x680/images/06cb0d8e-06f7-4f5e-9265-359e37008fcd/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Spark - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/8f03fcab-b8fb-4273-8765-d9e364c2acb4" title="Intermediate Kubernetes Operators">
+<a href="https://www.credly.com/badges/8f03fcab-b8fb-4273-8765-d9e364c2acb4" title="Intermediate Kubernetes Operators">
     <img src="https://images.credly.com/size/680x680/images/49173e9c-a2ac-4c0f-aae9-e36fd1994413/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Intermediate Kubernetes Operators">
 </a>
 
@@ -207,35 +211,35 @@ Explore some of my key contributions to Cypress’s knowledge base and resources
     <img src="https://images.credly.com/size/680x680/images/ba85e07d-8263-4f30-b39b-d79883ee558c/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning using TensorFlow">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/7ede25ae-5f47-4b5b-8621-44a83e577527" title="Machine Learning with Python - Level 1">
+<a href="https://www.credly.com/badges/7ede25ae-5f47-4b5b-8621-44a83e577527" title="Machine Learning with Python - Level 1">
     <img src="https://images.credly.com/size/680x680/images/c6c88c5f-79ea-4151-952d-b21c02b9a9fd/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Machine Learning with Python - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/2fd4688c-14db-4138-b6f8-ac7f5bb1f9ff" title="Machine Learning with Python - Level 1">
+<a href="https://www.credly.com/badges/2fd4688c-14db-4138-b6f8-ac7f5bb1f9ff" title="Machine Learning with Python - Level 1">
     <img src="https://images.credly.com/size/680x680/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Machine Learning with Python - Level 1">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/6a4378f9-a5b9-4674-9b30-370253033edb" title="Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED">
+<a href="https://www.credly.com/badges/6a4378f9-a5b9-4674-9b30-370253033edb" title="Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED">
     <img src="https://images.credly.com/size/680x680/images/4e0da755-65ac-4f9f-9502-24553709c284/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/5a1175d1-28c1-4ba4-90c7-71119d8dca2b" title="Building Cloud-Native and Multicloud Applications">
+<a href="https://www.credly.com/badges/5a1175d1-28c1-4ba4-90c7-71119d8dca2b" title="Building Cloud-Native and Multicloud Applications">
     <img src="https://images.credly.com/size/680x680/images/a7b5af1d-609a-4595-bfb2-2323b193e831/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Building Cloud-Native and Multicloud Applications">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/bc9ad7a0-d6be-48c5-80eb-4b4be7329e16" title="Advanced Kubernetes Operators">
+<a href="https://www.credly.com/badges/bc9ad7a0-d6be-48c5-80eb-4b4be7329e16" title="Advanced Kubernetes Operators">
     <img src="https://images.credly.com/size/680x680/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Advanced Kubernetes Operators">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/596e83f9-0566-416f-b185-c19e7bad8c75" title="Open Source Foundations">
+<a href="https://www.credly.com/badges/596e83f9-0566-416f-b185-c19e7bad8c75" title="Open Source Foundations">
     <img src="https://images.credly.com/size/680x680/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Open Source Foundations">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/64d83302-7a8d-4006-9e1d-7b4263c3bfdc" title="Containers, K8s and Istio on IBM Cloud">
+<a href="https://www.credly.com/badges/64d83302-7a8d-4006-9e1d-7b4263c3bfdc" title="Containers, K8s and Istio on IBM Cloud">
     <img src="https://images.credly.com/size/680x680/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Containers, K8s and Istio on IBM Cloud">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/8d8fe48f-2078-4418-9068-8104d1638d40" title="Getting started with Microservices with Istio and IBM Cloud Kubernetes Service">
+<a href="https://www.credly.com/badges/8d8fe48f-2078-4418-9068-8104d1638d40" title="Getting started with Microservices with Istio and IBM Cloud Kubernetes Service">
     <img src="https://images.credly.com/size/680x680/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Getting started with Microservices with Istio and IBM Cloud Kubernetes Service">
 </a>
 
@@ -247,7 +251,7 @@ Explore some of my key contributions to Cypress’s knowledge base and resources
     <img src="https://images.credly.com/size/680x680/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="IBM Cloud Essentials">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/9b51d15e-de2d-4477-b119-9743864a30f0" title="Docker Essentials: A Developer Introduction">
+<a href="https://www.credly.com/badges/9b51d15e-de2d-4477-b119-9743864a30f0" title="Docker Essentials: A Developer Introduction">
     <img src="https://images.credly.com/size/680x680/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Docker Essentials: A Developer Introduction">
 </a>
 
