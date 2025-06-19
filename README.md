@@ -5,15 +5,33 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Mikhalev&cb-cards.q_operator=AND), [HashiCorp Ambassador](https://www.hashicorp.com/en/ambassador/directory), [Snyk Ambassador](https://snyk.io/snyk-ambassadors/directory/), [Cypress Ambassador](https://www.cypress.io/ambassadors), [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) and [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/).
+<p>
+  I’m Vladimir Mikhalev, an
+  <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/" target="_blank" rel="noopener noreferrer">AWS Community Builder</a>,
+  <a href="https://www.hashicorp.com/en/ambassador/directory" target="_blank" rel="noopener noreferrer">HashiCorp Ambassador</a>,
+  <a href="https://snyk.io/snyk-ambassadors/directory/" target="_blank" rel="noopener noreferrer">Snyk Ambassador</a>,
+  <a href="https://www.cypress.io/ambassadors" target="_blank" rel="noopener noreferrer">Cypress Ambassador</a>,
+  <a href="https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c" target="_blank" rel="noopener noreferrer">Notion Ambassador</a> and
+  <a href="https://www.docker.com/captains/vladimir-mikhalev/" target="_blank" rel="noopener noreferrer">Docker Captain</a>, but my friends can call me Valdemar.
+</p>
 
-💾 I’ve been in the IT game for over 20 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/heyvaldemar/), [Thales](https://www.linkedin.com/in/heyvaldemar/), and [Amazon](https://www.linkedin.com/in/heyvaldemar/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
+<p>
+  💾 I’ve been in the IT game for over 20 years, cutting my teeth with some big names like IBM, Thales, and Amazon. These days, I wear the hat of a DevOps Engineer and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
+</p>
 
-💛 I have my own IT [blog](https://www.heyvaldemar.com/), where I’ve built a [community](https://discord.gg/AJQGCCBcqf) of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
+<p>
+  💛 I have my own IT blog, where I’ve built a community of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
+</p>
 
-🚀 My dream is to empower every single person in the DevOps community to squeeze every last drop of potential out of Docker and container tech.
+<p>
+  🚀 My dream is to empower every single person in the DevOps community to squeeze every last drop of potential out of Docker and container tech.
+</p>
 
-🐳 As a [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/), I’m stoked to share my knowledge, experiences, and a good dose of passion for the tech. My aim is to encourage learning, innovation, and growth, and to inspire the next generation of IT whizz-kids to push Docker and container tech to its limits.
+<p>
+  🐳 As a
+  <a href="https://www.docker.com/captains/vladimir-mikhalev/" target="_blank" rel="noopener noreferrer">Docker Captain</a>,
+  I’m stoked to share my knowledge, experiences, and a good dose of passion for the tech. My aim is to encourage learning, innovation, and growth, and to inspire the next generation of IT whizz-kids to push Docker and container tech to its limits.
+</p>
 
 ## Recognized by Docker CEO
 
@@ -27,93 +45,72 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
   </a>
 </p>
 
-## My Featured Contributions on Docker.com
+## Featured Contributions on Docker.com
 
-Explore some of my key contributions to Docker's knowledge base and resources:
+<p>Explore some of my key contributions to Docker's knowledge base and resources:</p>
 
-🐳 [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/) – A practical guide to combining Docker and VS Code for faster development, consistent environments, seamless debugging, and streamlined CI/CD workflows.
+<p>🐳 <a href="https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/" target="_blank" rel="noopener noreferrer">How to Build, Run, and Package AI Models Locally with Docker Model Runner</a> – Learn how to run LLMs locally with Docker — no Python setup needed. Pull, package, and deploy GGUF models via CLI or API for fast, private AI workflows.</p>
 
-🐳 [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/) – A comprehensive, hands-on tutorial demonstrating how to combine Docker’s containerization strengths with Jenkins’ automation capabilities. Learn best practices for faster builds, consistent testing, and streamlined deployments that supercharge your DevOps workflows.
+<p>🐳 <a href="https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/" target="_blank" rel="noopener noreferrer">Master Docker and VS Code: Supercharge Your Dev Workflow</a> – A practical guide to combining Docker and VS Code for faster development, consistent environments, seamless debugging, and streamlined CI/CD workflows.</p>
 
-🐳 [How to Dockerize a React App: A Step-by-Step Guide for Developers](https://www.docker.com/blog/how-to-dockerize-react-app/) – A clear, hands-on walkthrough that simplifies containerizing React applications, creating consistent environments, streamlining deployments, and elevating front-end workflows.
+<p>🐳 <a href="https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/" target="_blank" rel="noopener noreferrer">Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently</a> – A comprehensive, hands-on tutorial demonstrating how to combine Docker’s containerization strengths with Jenkins’ automation capabilities. Learn best practices for faster builds, consistent testing, and streamlined deployments that supercharge your DevOps workflows.</p>
 
-🐳 [Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/) – An insightful exploration of how Testcontainers Cloud enhances container-based testing while addressing the complexities of Docker-in-Docker, delivering a more secure and efficient alternative.
+<p>🐳 <a href="https://www.docker.com/blog/how-to-dockerize-react-app/" target="_blank" rel="noopener noreferrer">How to Dockerize a React App: A Step-by-Step Guide for Developers</a> – A clear, hands-on walkthrough that simplifies containerizing React applications, creating consistent environments, streamlining deployments, and elevating front-end workflows.</p>
 
-🐳 [Dockerize WordPress: Simplify Your Site’s Setup and Deployment](https://www.docker.com/blog/how-to-dockerize-wordpress/) – A comprehensive guide to streamlining WordPress environments using Docker and Traefik, ensuring secure, scalable, and efficient site deployments.
+<p>🐳 <a href="https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/" target="_blank" rel="noopener noreferrer">Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios</a> – An insightful exploration of how Testcontainers Cloud enhances container-based testing while addressing the complexities of Docker-in-Docker, delivering a more secure and efficient alternative.</p>
 
-🐳 [8 Top Docker Tips & Tricks](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/) – Practical insights and advanced techniques designed to elevate your Docker expertise and productivity.
+<p>🐳 <a href="https://www.docker.com/blog/how-to-dockerize-wordpress/" target="_blank" rel="noopener noreferrer">Dockerize WordPress: Simplify Your Site’s Setup and Deployment</a> – A comprehensive guide to streamlining WordPress environments using Docker and Traefik, ensuring secure, scalable, and efficient site deployments.</p>
 
-🐳 [How Ataccama Accelerated Its AI Journey with Docker](https://www.docker.com/resources/ataccama/) – A behind-the-scenes perspective on how Docker fueled Ataccama’s AI initiatives, boosting developer satisfaction and driving rapid innovation.
+<p>🐳 <a href="https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/" target="_blank" rel="noopener noreferrer">8 Top Docker Tips & Tricks</a> – Practical insights and advanced techniques designed to elevate your Docker expertise and productivity.</p>
 
-🐳 [How a Beauty Giant Achieved 25% Cost Savings with Container-First Development](https://www.docker.com/resources/beauty-giant/) – A revealing case study on how a major beauty brand leveraged Docker to optimize workflows, significantly cut costs, and improve operational efficiency.
+<p>🐳 <a href="https://www.docker.com/resources/ataccama/" target="_blank" rel="noopener noreferrer">How Ataccama Accelerated Its AI Journey with Docker</a> – A behind-the-scenes perspective on how Docker fueled Ataccama’s AI initiatives, boosting developer satisfaction and driving rapid innovation.</p>
 
-## My Featured Contributions on the Official Cypress Blog
+<p>🐳 <a href="https://www.docker.com/resources/beauty-giant/" target="_blank" rel="noopener noreferrer">How a Beauty Giant Achieved 25% Cost Savings with Container-First Development</a> – A revealing case study on how a major beauty brand leveraged Docker to optimize workflows, significantly cut costs, and improve operational efficiency.</p>
 
-Explore some of my key contributions to Cypress’s knowledge base and resources:
+## Featured Contributions on the Official Cypress Blog
 
-🧪 [Cypress Test Replay in 2025: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485) – Discover how Cypress Test Replay turns every CI run into an interactive debugging session with DOM snapshots, network logs, and console output—perfect for tackling complex modern UIs.
+<p>Explore some of my key contributions to Cypress’s knowledge base and resources:</p>
 
-🧪 [Docker + Cypress in 2025: How I’ve Perfected My E2E Testing Setup](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j) – A deep dive into optimizing Cypress testing within Docker containers, ensuring stability, parallelization, and security for modern CI/CD pipelines.
+<p>🧪 <a href="https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485" target="_blank" rel="noopener noreferrer">Cypress Test Replay in 2025: The Ultimate Guide to Time-Travel Debugging</a> – Discover how Cypress Test Replay turns every CI run into an interactive debugging session with DOM snapshots, network logs, and console output—perfect for tackling complex modern UIs.</p>
 
-## My 2D Portfolio
+<p>🧪 <a href="https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j" target="_blank" rel="noopener noreferrer">Docker + Cypress in 2025: How I’ve Perfected My E2E Testing Setup</a> – A deep dive into optimizing Cypress testing within Docker containers, ensuring stability, parallelization, and security for modern CI/CD pipelines.</p>
 
-🕹️ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
+## 2D Portfolio
 
-## My Courses
+<p>
+  🕹️ Click into <a href="https://www.sre.gg/" target="_blank" rel="noopener noreferrer">sre.gg</a> — my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
+</p>
 
-🎓 Dive into my [comprehensive IT courses](https://www.heyvaldemar.com/courses/) designed for enthusiasts and professionals alike. Whether you're looking to master Docker, conquer Kubernetes, or advance your DevOps skills, my courses provide a structured pathway to enhancing your technical prowess.
+## Social Channels
 
-🔑 [Each course](https://www.udemy.com/user/heyvaldemar/) is built from the ground up with real-world scenarios in mind, ensuring that you gain practical knowledge and hands-on experience. From beginners to seasoned professionals, there's something here for everyone to elevate their IT skills.
-
-## My Services
-
-💼 Take a look at my [service catalog](https://www.heyvaldemar.com/services/) and find out how we can make your technological life better. Whether it's increasing the efficiency of your IT infrastructure, advancing your career, or expanding your technological horizons — I'm here to help you achieve your goals. From DevOps transformations to building gaming computers — let's make your technology unparalleled!
-
-## Patreon Exclusives
-
-🏆 Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
-
-## My Recommendations
-
-📕 Check out my collection of [essential DevOps books](https://kit.co/heyvaldemar/essential-devops-books)\
-🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyvaldemar/my-studio-streaming-and-recording-kit)\
-📡 Check out my [streaming starter kit](https://kit.co/heyvaldemar/streaming-starter-kit)
-
-## Follow Me
-
-🎬 [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
-🐦 [X / Twitter](https://twitter.com/heyvaldemar)\
-🎨 [Instagram](https://www.instagram.com/heyvaldemar/)\
-🐘 [Mastodon](https://mastodon.social/@heyvaldemar)\
-🧵 [Threads](https://www.threads.net/@heyvaldemar)\
-🎸 [Facebook](https://www.facebook.com/heyvaldemarFB/)\
-🧊 [Bluesky](https://bsky.app/profile/heyvaldemar.com)\
-🎥 [TikTok](https://www.tiktok.com/@heyvaldemar)\
-💻 [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
-📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)\
-🧩 [LeetCode](https://leetcode.com/u/heyvaldemar/)\
-🐈 [GitHub](https://github.com/heyvaldemar)
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+  <li style="margin-bottom: 6px; line-height: 1.4;">🎬 <a href="https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🐦 <a href="https://x.com/heyvaldemar" target="_blank" rel="noopener noreferrer">X (Twitter)</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🎨 <a href="https://www.instagram.com/heyvaldemar/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🐘 <a href="https://mastodon.social/@heyvaldemar" target="_blank" rel="noopener noreferrer">Mastodon</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🧵 <a href="https://www.threads.net/@heyvaldemar" target="_blank" rel="noopener noreferrer">Threads</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🎸 <a href="https://www.facebook.com/heyvaldemarFB/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🧊 <a href="https://bsky.app/profile/heyvaldemar.com" target="_blank" rel="noopener noreferrer">Bluesky</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🎥 <a href="https://www.tiktok.com/@heyvaldemar" target="_blank" rel="noopener noreferrer">TikTok</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">💻 <a href="https://www.linkedin.com/in/heyvaldemar/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">📣 <a href="https://app.daily.dev/squads/devopscompass" target="_blank" rel="noopener noreferrer">daily.dev Squad</a></li>
+  <li style="margin-bottom: 6px; line-height: 1.4;">🧩 <a href="https://leetcode.com/u/heyvaldemar/" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
+  <li style="margin-bottom: 0; line-height: 1.4;">🐈 <a href="https://github.com/heyvaldemar" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+</ul>
 
 ## Community of IT Experts
 
-👾 [Discord](https://discord.gg/AJQGCCBcqf)
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+  <li style="margin-bottom: 0; line-height: 1.4;">👾 <a href="https://devops.army" target="_blank" rel="noopener noreferrer">Discord</a></li>
+</ul>
 
-## Refill My Coffee Supplies
+## Achievements and Trophies
 
-💖 [PayPal](https://www.paypal.com/paypalme/heyvaldemarCOM)\
-🏆 [Patreon](https://www.patreon.com/heyvaldemar)\
-💎 [GitHub](https://github.com/sponsors/heyvaldemar)\
-🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyvaldemar)\
-🍪 [Ko-fi](https://ko-fi.com/heyvaldemar)
+<a href="https://www.exophase.com/user/heyvaldemar/" target="_blank"><img src="https://card.exophase.com/2/0/269530.png?1723828767"></a>
 
-🌟 **Bitcoin (BTC):** bc1q2fq0k2lvdythdrj4ep20metjwnjuf7wccpckxc\
-🔹 **Ethereum (ETH):** 0x76C936F9366Fad39769CA5285b0Af1d975adacB8\
-🪙 **Binance Coin (BNB):** bnb1xnn6gg63lr2dgufngfr0lkq39kz8qltjt2v2g6\
-💠 **Litecoin (LTC):** LMGrhx8Jsx73h1pWY9FE8GB46nBytjvz8g
+## Badges
 
-## My Digital Badges
-
-<a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
+<a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="620" alt="Vladimir Mikhalev's Dev Card"/></a>
 
 <a href="https://www.credly.com/badges/0fe5934b-7438-4143-856e-669a3463c3d6/" title="Simplifying Data Pipelines with Apache Kafka">
     <img src="https://images.credly.com/size/680x680/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Simplifying Data Pipelines with Apache Kafka">
@@ -369,10 +366,6 @@ Explore some of my key contributions to Cypress’s knowledge base and resources
 
 - [Badge Verificaton](https://www.credly.com/users/heyvaldemar)
 - [Full List of My Badges and Certificates](https://www.heyvaldemar.com/vladimir-mikhalev/)
-
-## My Achievements and Trophies
-
-<a href="https://www.exophase.com/user/heyvaldemar/" target="_blank"><img src="https://card.exophase.com/2/0/269530.png?1723828767"></a>
 
 <div align="center">
 
