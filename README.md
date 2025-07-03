@@ -11,6 +11,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   <a href="https://www.hashicorp.com/en/ambassador/directory" target="_blank" rel="noopener noreferrer">HashiCorp Ambassador</a>,
   <a href="https://snyk.io/snyk-ambassadors/directory/" target="_blank" rel="noopener noreferrer">Snyk Ambassador</a>,
   <a href="https://www.cypress.io/ambassadors" target="_blank" rel="noopener noreferrer">Cypress Ambassador</a>,
+  <a href="https://www.gitkraken.com/meet-the-gitkraken-ambassadors" target="_blank" rel="noopener noreferrer">GitKraken Ambassador</a>,
   <a href="https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c" target="_blank" rel="noopener noreferrer">Notion Ambassador</a> and
   <a href="https://www.docker.com/captains/vladimir-mikhalev/" target="_blank" rel="noopener noreferrer">Docker Captain</a>, but my friends can call me Valdemar.
 </p>
@@ -44,6 +45,12 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
     <img src="https://www.heyvaldemar.com/images/articles/vladimir-mikhalev-recognized-by-docker-ceo/vladimir-mikhalev-recognized-by-docker-ceo-youtube.jpg" alt="Vladimir Mikhalev recognized by Docker CEO" width="64%">
   </a>
 </p>
+
+## Featured Shorts on Docker’s YouTube
+
+<p>Explore my developer Shorts featured on Docker’s <strong>official YouTube channel</strong> — fast, actionable insights from real-world DevOps and container security scenarios.</p>
+
+<p>🍿 <a href="https://www.youtube.com/shorts/DDDwoIhHRxs" target="_blank" rel="noopener noreferrer">Caught a Major Prod Bug Too Late? Use Docker Scout</a> – A real-world example of using Docker Scout to detect vulnerabilities early, reduce security noise, and keep production stable. Scan every image. Fix issues faster. Ship with confidence.</p>
 
 ## Featured Contributions on Docker.com
 
