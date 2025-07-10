@@ -7,7 +7,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <p>
   I’m Vladimir Mikhalev, an
-  <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/" target="_blank" rel="noopener noreferrer">AWS Community Builder</a>,
+  <a href="https://builder.aws.com/connect/community/community-builders" target="_blank" rel="noopener noreferrer">AWS Community Builder</a>,
   <a href="https://www.hashicorp.com/en/ambassador/directory" target="_blank" rel="noopener noreferrer">HashiCorp Ambassador</a>,
   <a href="https://snyk.io/snyk-ambassadors/directory/" target="_blank" rel="noopener noreferrer">Snyk Ambassador</a>,
   <a href="https://www.cypress.io/ambassadors" target="_blank" rel="noopener noreferrer">Cypress Ambassador</a>,
