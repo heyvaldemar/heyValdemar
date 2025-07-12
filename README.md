@@ -42,7 +42,7 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 <p align="left">
   <a href="https://youtu.be/NAv1e36PTB8">
-    <img src="https://www.heyvaldemar.com/images/articles/vladimir-mikhalev-recognized-by-docker-ceo/vladimir-mikhalev-recognized-by-docker-ceo-youtube.jpg" alt="Vladimir Mikhalev recognized by Docker CEO" width="64%">
+    <img src="https://www.heyvaldemar.com/images/thumbnails/vladimir-mikhalev-recognized-by-docker-ceo.webp" alt="Vladimir Mikhalev recognized by Docker CEO" width="64%">
   </a>
 </p>
 
