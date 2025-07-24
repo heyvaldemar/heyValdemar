@@ -1,0 +1,30 @@
+# https://github.com/dailydotdev/action-devcard
+name: DevCard
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 7 * * *" # Runs daily at 3 AM Toronto time (UTC−4)
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate & Commit DevCard
+        uses: dailydotdev/action-devcard@3.2.1
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          type: wide
+          commit_filename: devcard.png
+          commit_message: "chore: update ${filename}"
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
