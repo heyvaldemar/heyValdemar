@@ -9,7 +9,7 @@ I'm Vladimir Mikhalev, an [AWS Community Builder](https://builder.aws.com/connec
 
 💾 I've been in the IT game for over 20 years, cutting my teeth with some big names like IBM, Thales, and Amazon. These days, I wear the hat of a DevOps Engineer and Team Lead, but what really gets me going is Docker and container technology I'm kind of obsessed!
 
-💛 I have my own IT blog, where I've built a community of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they're foolproof!) that help even newbies deploy and manage complex IT solutions.
+💛 I have my own [IT blog](https://www.heyvaldemar.com/), where I've built a community of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they're foolproof!) that help even newbies deploy and manage complex IT solutions.
 
 🚀 My dream is to empower every single person in the DevOps community to squeeze every last drop of potential out of Docker and container tech.
 
