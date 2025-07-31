@@ -31,7 +31,7 @@ At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linked
 
 ## Featured Shorts on Docker's YouTube
 
-Explore my developer Shorts featured on Docker's **official YouTube channel** — fast, actionable insights from real-world DevOps and container security scenarios.
+Explore my developer Shorts featured on Docker's **official YouTube channel** - fast, actionable insights from real-world DevOps and container security scenarios.
 
 🍿 [Why 'latest' Broke Our Staging (And How We Fixed It for Good)](https://www.youtube.com/shorts/8I3eRoc6exA) - How a misused `latest` tag brought our staging down without anyone noticing. Discover how we changed our approach to Docker, avoiding the pitfalls and making production more reliable.
 
@@ -41,11 +41,11 @@ Explore my developer Shorts featured on Docker's **official YouTube channel** �
 
 Explore some of my key contributions to Docker's knowledge base and resources:
 
-🐳 [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/) - Learn how to run LLMs locally with Docker — no Python setup needed. Pull, package, and deploy GGUF models via CLI or API for fast, private AI workflows.
+🐳 [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/) - Learn how to run LLMs locally with Docker - no Python setup needed. Pull, package, and deploy GGUF models via CLI or API for fast, private AI workflows.
 
 🐳 [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/) - A practical guide to combining Docker and VS Code for faster development, consistent environments, seamless debugging, and streamlined CI/CD workflows.
 
-🐳 [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/) - A comprehensive, hands-on tutorial demonstrating how to combine Docker’s containerization strengths with Jenkins’ automation capabilities. Learn best practices for faster builds, consistent testing, and streamlined deployments that supercharge your DevOps workflows.
+🐳 [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/) - A comprehensive, hands-on tutorial demonstrating how to combine Docker's containerization strengths with Jenkins' automation capabilities. Learn best practices for faster builds, consistent testing, and streamlined deployments that supercharge your DevOps workflows.
 
 🐳 [How to Dockerize a React App: A Step-by-Step Guide for Developers](https://www.docker.com/blog/how-to-dockerize-react-app/) - A clear, hands-on walkthrough that simplifies containerizing React applications, creating consistent environments, streamlining deployments, and elevating front-end workflows.
 
@@ -55,23 +55,41 @@ Explore some of my key contributions to Docker's knowledge base and resources:
 
 🐳 [8 Top Docker Tips & Tricks](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/) - Practical insights and advanced techniques designed to elevate your Docker expertise and productivity.
 
-🐳 [How Ataccama Accelerated Its AI Journey with Docker](https://www.docker.com/resources/ataccama/) - A behind-the-scenes perspective on how Docker fueled Ataccama’s AI initiatives, boosting developer satisfaction and driving rapid innovation.
+🐳 [How Ataccama Accelerated Its AI Journey with Docker](https://www.docker.com/resources/ataccama/) - A behind-the-scenes perspective on how Docker fueled Ataccama's AI initiatives, boosting developer satisfaction and driving rapid innovation.
 
 🐳 [How a Beauty Giant Achieved 25% Cost Savings with Container-First Development](https://www.docker.com/resources/beauty-giant/) - A revealing case study on how a major beauty brand leveraged Docker to optimize workflows, significantly cut costs, and improve operational efficiency.
-
----
 
 ## Featured Contributions on the Official Cypress Blog
 
 Explore some of my key contributions to Cypress's knowledge base and resources:
 
-🧪 [Cypress Test Replay in 2025: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485) - Discover how Cypress Test Replay turns every CI run into an interactive debugging session with DOM snapshots, network logs, and console output—perfect for tackling complex modern UIs.
+🧪 [Cypress Test Replay in 2025: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485) - Discover how Cypress Test Replay turns every CI run into an interactive debugging session with DOM snapshots, network logs, and console output-perfect for tackling complex modern UIs.
 
 🧪 [Docker + Cypress in 2025: How I've Perfected My E2E Testing Setup](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j) - A deep dive into optimizing Cypress testing within Docker containers, ensuring stability, parallelization, and security for modern CI/CD pipelines.
 
 ## 2D Portfolio
 
-🕹️ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
+🕹️ Click into [sre.gg](https://www.sre.gg/) - my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
+
+## Patreon Exclusives
+
+🏆 Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
+
+## Tools I Personally Trust
+
+If you're building things, breaking things, and trying to keep your digital life a little saner (like every good DevOps engineer), these are two tools that I trust and use daily:
+
+🛸 [Proton VPN](https://go.getproton.me/SH1e9) - My shield on the internet. It keeps your Wi-Fi secure, hides your IP, and blocks those creepy trackers. Even if I'm hacking away on free café Wi-Fi, I know I'm safe.
+
+🔑 [Proton Pass](https://go.getproton.me/SH1dl) - My password vault. Proper on-device encryption, 2FA codes, logins, secrets - all mine and only mine. No compromises.
+
+_These are partner links - you won't pay a cent more, but you'll be supporting DevOps Compass. Thanks a ton - it helps me keep this compass pointing the right way 💜_
+
+## Gear & Books I Trust
+
+📕 [Essential DevOps books](https://kit.co/heyvaldemar/essential-devops-books)  
+🖥️ [Studio streaming & recording kit](https://kit.co/heyvaldemar/my-studio-streaming-and-recording-kit)  
+📡 [Streaming starter kit](https://kit.co/heyvaldemar/streaming-starter-kit)
 
 ## Social Channels
 
@@ -90,7 +108,21 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 
 ## Community of IT Experts
 
-👾 [Discord](https://devops.army)
+👾 [Discord](https://devops.army/)
+
+## Refill My Coffee Supplies
+
+💖 [PayPal](https://www.paypal.com/paypalme/heyvaldemarcom)  
+🏆 [Patreon](https://www.patreon.com/heyvaldemar)  
+🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyvaldemar)  
+🍪 [Ko-fi](https://ko-fi.com/heyvaldemar)  
+💎 [GitHub](https://github.com/sponsors/heyvaldemar)  
+⚡ [Telegram Boost](https://t.me/heyvaldemar?boost)
+
+🌟 Bitcoin (BTC): bc1q2fq0k2lvdythdrj4ep20metjwnjuf7wccpckxc  
+🔹 Ethereum (ETH): 0x76C936F9366Fad39769CA5285b0Af1d975adacB8  
+🪙 Binance Coin (BNB): bnb1xnn6gg63lr2dgufngfr0lkq39kz8qltjt2v2g6  
+💠 Litecoin (LTC): LMGrhx8Jsx73h1pWY9FE8GB46nBytjvz8g
 
 ## Achievements and Trophies
 
