@@ -10,9 +10,9 @@
 
 ### What I Do
 
-One of fewer than 250 Docker Captains worldwide. 8 vendor-recognized community titles across Docker, IBM, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
+One of fewer than 250 Docker Captains worldwide. 9 vendor-recognized community titles across Docker, IBM, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
 
-Every architecture recommendation backed by production experience. 20+ years designing and delivering cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
+Every architecture recommendation backed by production experience. Designed and delivered cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
 ---
 
@@ -29,6 +29,8 @@ Every architecture recommendation backed by production experience. 20+ years des
 > *"Vladimir has written more than 100 pieces of content for Docker in the past year. He has also helped us find customer stories that we've been able to document and share throughout the rest of the community. And he's met with multiple product managers internally to share his product feedback."*
 >
 > — Scott Johnston, CEO of Docker
+
+**Snyk Ambassador Award Finalist** · [Four named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
 
 ---
 
@@ -52,7 +54,7 @@ Every architecture recommendation backed by production experience. 20+ years des
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
 - **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-4kk7)
 - **Book:** [Technical Editor — "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
-- **Open Source:** [50+ production-grade Docker Compose blueprints](https://github.com/heyvaldemar) · [500,000+ Docker Hub pulls](https://hub.docker.com/u/heyvaldemar)
+- **Open Source:** [50+ production-grade Docker Compose blueprints](https://github.com/heyvaldemar) · [700,000+ Docker Hub pulls](https://hub.docker.com/u/heyvaldemar)
 
 ---
 
@@ -75,7 +77,7 @@ Same hardening rigor rolling out across remaining deployment-template repositori
 
 ### Production Background
 
-*20+ years of enterprise infrastructure architecture across 3 countries*
+*Enterprise infrastructure architecture at Fortune 500 scale*
 
 Sole architect and technology leader for North American operations at a Series D enterprise serving Fortune 500 clients. Designing scalable cloud architecture on AWS for enterprise accounts: container orchestration, zero trust governance, AI-augmented platforms, multi-region infrastructure.
 
@@ -87,13 +89,14 @@ Every architecture decision I publish is backed by production experience.
 
 ### Community Titles
 
-*8 active vendor-recognized programs*
+*9 active vendor-recognized programs*
 
 | Organization | Title | Domain |
 | :--- | :--- | :--- |
 | [**Docker**](https://www.docker.com/contributors/vladimir-mikhalev/) | Captain | Container architecture, security, and developer workflows |
 | [**IBM**](https://www.ibm.com/community/ibm-champions/) | Champion | Enterprise AI, Cloud, Automation, HashiCorp/Terraform portfolio |
 | [**AWS**](https://builder.aws.com/community/community-builders) | Community Builder | Cloud architecture, EKS, Serverless |
+| [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory) | Ambassador | Terraform, Vault, infrastructure as code |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
 | [**Snyk**](https://snyk.io/snyk-ambassadors/directory/) | Ambassador | Application security, supply chain |
 | [**Cypress**](https://www.cypress.io/ambassadors) | Ambassador | Test automation, AI agents in testing |
@@ -108,8 +111,8 @@ Every architecture decision I publish is backed by production experience.
 
 Docker Captain · IBM Champion · AWS Community Builder
 
-*The Verdict — production-tested analysis on YouTube.*
+*The Verdict — production-tested analysis on YouTube. 100,000+ subscribers.*
 
-[YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1) · [Blog](https://heyvaldemar.com) · [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
+[YouTube](https://www.youtube.com/@valdemar_ai?sub_confirmation=1) · [Blog](https://heyvaldemar.com) · [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
 
 </div>
