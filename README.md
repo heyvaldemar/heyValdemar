@@ -52,7 +52,7 @@ Every architecture recommendation backed by production experience. Designed and 
 - **Featured by Cypress:** [Cypress Ambassador Spotlight: Vladimir Mikhalev](https://www.cypress.io/blog/cypress-ambassador-spotlight-vladimir-mikhalev)
 - **Cypress Blog:** [Cypress in the Age of AI Agents](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
-- **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-4kk7)
+- **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485)
 - **Book:** [Technical Editor — "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
 - **Open Source:** [70+ production-grade deployment blueprints](https://github.com/heyvaldemar) · [1,000,000+ Docker Hub pulls](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
 
