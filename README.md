@@ -28,7 +28,7 @@ Every architecture recommendation backed by production experience. Designed and 
 
 > *"Vladimir has written more than 100 pieces of content for Docker in the past year. He has also helped us find customer stories that we've been able to document and share throughout the rest of the community. And he's met with multiple product managers internally to share his product feedback."*
 >
-> — Scott Johnston, CEO of Docker
+> — Scott Johnston, CEO, Docker (2019–2025)
 
 **Snyk Ambassador Award Finalist** · [Four named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
 
@@ -54,7 +54,7 @@ Every architecture recommendation backed by production experience. Designed and 
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
 - **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-4kk7)
 - **Book:** [Technical Editor — "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
-- **Open Source:** [50+ production-grade Docker Compose blueprints](https://github.com/heyvaldemar) · [700,000+ Docker Hub pulls](https://hub.docker.com/u/heyvaldemar)
+- **Open Source:** [70+ production-grade deployment blueprints](https://github.com/heyvaldemar) · [1,000,000+ Docker Hub pulls](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
 
 ---
 
