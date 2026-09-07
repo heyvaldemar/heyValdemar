@@ -62,16 +62,16 @@ Every architecture recommendation backed by production experience. Designed and 
 
 *Formalized supply-chain hardening program for public deployment-template repositories*
 
-**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** — a 7-phase program that brings deployment-template repositories to a supply-chain-hardened baseline: commit-SHA-pinned GitHub Actions with per-job permissions, digest-pinned upstream images with Dependabot auto-bumps, OpenSSF Scorecard, CI linting, Trivy upstream scanning.
+**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** — a 7-phase program that brings deployment-template repositories to a supply-chain-hardened baseline: commit-SHA-pinned GitHub Actions with per-job permissions, digest-pinned upstream images with a daily freshness check, OpenSSF Scorecard, CI linting, Trivy upstream scanning.
 
 **Reference implementations — two repository shapes, one hardening rigor:**
 
 | Repository | Shape | Supply-chain surface |
 | :--- | :--- | :--- |
 | [aws-kubectl-docker](https://github.com/heyvaldemar/aws-kubectl-docker) | Image-publishing | Cosign keyless signing · SBOM (SPDX) · SLSA build provenance · Trivy SARIF · digest-pinned base · OpenSSF Scorecard |
-| [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | Deployment template | Digest-pinned upstream images · Dependabot auto-bumps · CI weekly deployment smoke · lint + Trivy scan · OpenSSF Scorecard |
+| [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | Deployment template | Digest-pinned upstream images · daily freshness check against the registry · daily CI deployment smoke · lint + Trivy scan · OpenSSF Scorecard |
 
-Same hardening rigor rolling out across remaining deployment-template repositories — rollout status tracked in the [runbook README](https://github.com/heyvaldemar/self-host-repo-hardening-runbook).
+The same hardening standard is applied across all 52 deployment-template repositories and verified daily: a fleet conformance check runs every pin, health check and backup rule against every repository, and a triage job refreshes drifted images through the CI gate.
 
 ---
 
