@@ -71,7 +71,9 @@ Every architecture recommendation backed by production experience. Designed and 
 | [aws-kubectl-docker](https://github.com/heyvaldemar/aws-kubectl-docker) | Image-publishing | Cosign keyless signing · SBOM (SPDX) · SLSA build provenance · Trivy SARIF · digest-pinned base · OpenSSF Scorecard |
 | [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | Deployment template | Digest-pinned upstream images · daily freshness check against the registry · daily CI deployment smoke · lint + Trivy scan · OpenSSF Scorecard |
 
-The same hardening standard is applied across all 52 deployment-template repositories and verified daily: a fleet conformance check runs every pin, health check and backup rule against every repository, and a triage job refreshes drifted images through the CI gate.
+<!-- fleet-summary:start -->
+**[73 repositories under this standard](https://github.com/heyvaldemar/catalog)** — 36 self-hosted applications behind Traefik, 14 game servers, 4 other stacks, 8 Terraform pipelines on AWS, 11 operations tools and scripts. Every template is pinned by digest, boots in CI daily, upgrades from its previous release on the same volumes, and is released only after that passes. Counts regenerated daily by fleet-ops (last 2026-09-08 23:25 UTC).
+<!-- fleet-summary:end -->
 
 ---
 
